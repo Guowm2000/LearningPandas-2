@@ -1,0 +1,2 @@
+git remote add rmt git@github.com:Guowm2000/LearningPandas-2.git
+git push rmt master:main

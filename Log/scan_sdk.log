@@ -30,3 +30,14 @@
 2023-04-25 09:21:49.922966|30687|30795|INFO |  60|[120f50b0-00c2-41cd-a1cf-c3661061507c] : [socket.*.cmd.login] send sync data[cmd_client_login] to [120f50b0-00c2-41cd-a1cf-c3661061507c]
 2023-04-25 09:21:49.923717|30687|30795|INFO |  70|recv the [socket.*.cmd.login] response[cmd_client_login].
 2023-04-25 09:21:49.923757|30687|30795|DEBUG|  89|client[120f50b0-00c2-41cd-a1cf-c3661061507c] login success, recv data[cmd_client_login].
+2023-04-26 08:36:56.291625|5909 |5991 |DEBUG| 157|recv client sdk callback, info[detective all clients connected server.], type[2].
+2023-04-26 08:36:56.313014|5909 |5991 |INFO |  60|[14711721-3c48-447a-bc37-b35d18a5ab1a] : [socket.*.cmd.login] send sync data[cmd_client_login] to [14711721-3c48-447a-bc37-b35d18a5ab1a]
+2023-04-26 08:36:56.313836|5909 |5991 |INFO |  70|recv the [socket.*.cmd.login] response[cmd_client_login].
+2023-04-26 08:36:56.313887|5909 |5991 |DEBUG|  89|client[14711721-3c48-447a-bc37-b35d18a5ab1a] login success, recv data[cmd_client_login].
+2023-05-04 09:04:25.262801|8500 |8585 |DEBUG| 157|recv client sdk callback, info[detective all clients connected server.], type[2].
+2023-05-04 09:04:25.283288|8500 |8585 |INFO |  60|[277e2202-b56c-4bfb-abb7-d64915cedf94] : [socket.*.cmd.login] send sync data[cmd_client_login] to [277e2202-b56c-4bfb-abb7-d64915cedf94]
+2023-05-04 09:04:25.283367|8500 |8585 |ERROR|  66|[socket.*.cmd.login] havn't recv the response, retry...
+2023-05-04 09:04:25.283475|8500 |8585 |DEBUG|  85|client 277e2202-b56c-4bfb-abb7-d64915cedf94 login failed, wait 1 second for retry...
+2023-05-04 09:04:26.283891|8500 |8585 |INFO |  60|[277e2202-b56c-4bfb-abb7-d64915cedf94] : [socket.*.cmd.login] send sync data[cmd_client_login] to [277e2202-b56c-4bfb-abb7-d64915cedf94]
+2023-05-04 09:04:26.284583|8500 |8585 |INFO |  70|recv the [socket.*.cmd.login] response[cmd_client_login].
+2023-05-04 09:04:26.284611|8500 |8585 |DEBUG|  89|client[277e2202-b56c-4bfb-abb7-d64915cedf94] login success, recv data[cmd_client_login].
